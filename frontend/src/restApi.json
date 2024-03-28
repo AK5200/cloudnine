@@ -1,0 +1,155 @@
+
+
+
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "RESTAURANTS",
+                "description": "Where flavors dance and memories linger, the town's best restaurant orchestrates delight" 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "EASY BOOKING",
+                "description": "Smooth as a breeze, booking made with ease, where hassle takes a backseat to seamless release" 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "OFFERS",
+                "description": "Unlock exclusive perks, discounts galore, with every order, a treasure trove in store" 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./meghna.jpg",
+                "title": "Meghna's",
+                "category": "Highest Rated"
+            },
+            {
+                "id": 2,
+                "image": "./smoor.jpg",
+                "title": "Smoor",
+                "category": "Best in cakes"
+            },
+            {
+                "id": 3,
+                "image": "./third.jpg",
+                "title": "Rameswaram Cafe",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./ram.jpg",
+                "title": "Third Wave Coffee",
+                "category": "Bevarages"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "BEEF BURGER MEAL",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "Time Traveller",
+                "category": "Breakfast, Lunch, Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./pizza.jpg",
+                "title": "Dominoz",
+                "category": "Best in Pizza"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "Mani's Dum Biryani",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./me2.png",
+                "name": "ANUPAM KUMAR",
+                "designation": "anupamkmr5200@gmail.com"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "8",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "1000+",
+                "title": "Deliveries"
+            },
+            {
+                "id": 3,
+                "number": "98%",
+                "title": "On Time"
+            },
+            {
+                "id": 4,
+                "number": "∞",
+                "title": "Discounts"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
