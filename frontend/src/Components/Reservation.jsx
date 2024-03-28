@@ -18,7 +18,7 @@ import { useNavigate } from "react-router-dom";
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "http://localhost:4000/api/v1/reservation/send",
+        "https://easy-ruby-angelfish-shoe.cyclic.app/api/v1/reservation/send",
         { firstName,lastName,email,phone,date,time },
         {
           headers: {
